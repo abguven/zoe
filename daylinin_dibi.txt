@@ -1,3 +1,4 @@
 Offff sinir ettin beni git
 Bakalim fetch yapinca ne olacak
 Hadi bir satir daha ekleyim bakalim.
+Tracking ekledim bakalim ne olacak.
